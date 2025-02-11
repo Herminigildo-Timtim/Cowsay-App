@@ -26,3 +26,4 @@
 /home/hermi/SAIB/Training/cowsay_app/obj/Debug/net9.0/cowsay.pdb
 /home/hermi/SAIB/Training/cowsay_app/obj/Debug/net9.0/cowsay.genruntimeconfig.cache
 /home/hermi/SAIB/Training/cowsay_app/obj/Debug/net9.0/ref/cowsay.dll
+/home/hermi/SAIB/Training/cowsay_app/obj/Debug/net9.0/cowsay.sourcelink.json
